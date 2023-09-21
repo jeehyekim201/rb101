@@ -1,1 +1,1 @@
-All the exercised done here are licensed by Launch School.
+All the exercises done here are licensed by Launch School.

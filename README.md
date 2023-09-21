@@ -1,1 +1,1 @@
-The exercised done here are part of Ruby 101 course.
+The exercises done here are part of the Ruby 101 course.
