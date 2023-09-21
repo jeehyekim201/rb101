@@ -1,0 +1,40 @@
+
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+  first_number: "What is the first number?"
+  validity_question: "Hmm... that doesn't look like a valid number"
+  second_number: "What is the second number?"
+  operator: >
+        What operation would you like to perform?
+        1) add
+        2) subtract
+        3) multiply
+        4) divide
+  choose: "Must choose 1, 2, 3, or 4"
+  adding: "Adding"
+  subtracting: "Subtracting"
+  multiplying: "Multiplying"
+  dividing: "Dividing"
+  again?: "Do you want to perform another calculation? (Y to calculate again)"
+  thankyou: "Thank you for using the calculator. Good bye!"
+
+es:
+  welcome: "¡Bienvenido a Calculadora! Ingrese su nombre:"
+  valid_name: "Asegúrese de ingresar un nombre válido."
+  first_number: "¿Cuál es el primer número?"
+  validity_question: "Hmm... ese no parece un número válido"
+  second_number: "¿Cuál es el segundo número?"
+  operator: >
+        ¿Qué operación te gustaría realizar?
+        1) agregar
+        2) restar
+        3) multiplicar
+        4) dividir
+  choose: "Debes elegir 1, 2, 3 o 4"
+  adding: "Agregando"
+  subtracting: "Restando"
+  multiplying: "Multiplicando"
+  dividing: "Apartante"
+  again?: "¿Quieres realizar otro cálculo? (Y para calcular nuevamente)"
+  thankyou: "Gracias por usar la calculadora. ¡Adiós!"
