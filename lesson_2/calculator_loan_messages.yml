@@ -1,0 +1,19 @@
+en:
+  welcome: "Welcome to the Car Loan Calculator. Please enter your name: "
+  valid_name: "Make sure to enter your name."
+  loan_amount: "What is the loan amount?"
+  validity_question: "Hmm... that doesn't look like a valid number"
+  apr: "What is the APR?"
+  loan_duration: "What's the loan duration in months?"
+  again?: "Do you want to perform another calculation? (Y to calculate again)"
+  thankyou: "Thank you for using the Car Loan Calculator. Try to pay off if you have extra cash at hand!"
+
+kr:
+  welcome: "안녕하세요 차 대출 계산기에 오신것을 환영합니다. 이름을 넣어주시기 바랍니다: "
+  valid_name: "이름을 꼭 넣어주세요."
+  loan_amount: "대출 금액이 얼마입니까?"
+  validity_question: "음... 전혀 숫자같이 보이지않습니다"
+  apr: "연이율이 얼마나 됩니까?"
+  loan_duration: "대출 기간이 몇개월 입니까?"
+  again?: "또 다른 계산을 하고싶습니까? (Y 를 누르세요 또 계산하길 원하시면)"
+  thankyou: "차 대출 계산기를 이용해주셔서 감사합니다. 여분의 현금이 있다면 갚도록 노력하세요!"
