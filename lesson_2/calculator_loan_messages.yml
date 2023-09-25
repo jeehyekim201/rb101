@@ -1,14 +1,16 @@
 en:
+  select: "Please select your language. Korean or English?"
   welcome: "Welcome to the Car Loan Calculator. Please enter your name: "
   valid_name: "Make sure to enter your name."
   loan_amount: "What is the loan amount?"
   validity_question: "Hmm... that doesn't look like a valid number"
-  apr: "What is the APR?"
+  apr: "What is the APR percentage?"
   loan_duration: "What's the loan duration in months?"
   again?: "Do you want to perform another calculation? (Y to calculate again)"
   thankyou: "Thank you for using the Car Loan Calculator. Try to pay off if you have extra cash at hand!"
 
 kr:
+  select: "언어를 선택해주세요. Korean or English?"
   welcome: "안녕하세요 차 대출 계산기에 오신것을 환영합니다. 이름을 넣어주시기 바랍니다: "
   valid_name: "이름을 꼭 넣어주세요."
   loan_amount: "대출 금액이 얼마입니까?"
